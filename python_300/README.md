@@ -2,5 +2,5 @@
 파이썬 300제를 풀어봅니다.  
 
 001-010 print문  
-011-020 변수(variable), 자료형(datatype) 
+011-020 변수(variable), 자료형(datatype)  
 021-050 문자열(string), 인덱싱, 슬라이싱
