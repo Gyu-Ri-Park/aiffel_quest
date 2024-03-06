@@ -16,9 +16,11 @@
 
 ![image](https://github.com/Jean-yun/-Peer_review/assets/155133473/3350584b-1f7c-4e97-b2d2-0629a0309d4c)
 ![image](https://github.com/Jean-yun/-Peer_review/assets/155133473/e8aa53cc-3576-492b-b177-7c84c73dd249)
+![image](https://github.com/Jean-yun/-Peer_review/assets/155133473/e5fbd4a5-7b5b-41c1-8452-85ce997e2b91)
 
-* 학습결과에 대한 시각화를 잘 해보았고, 오버피팅을 극복하기 위해 epoch 수를 20으로 늘리는 등 파라미터 조정을 해보았습니다.
-* 그리고 다른 팀원들의 데이터를 활용하여 훈련데이터셋을 풍부하게 가져왔습니다.
+
+* 데이터 정규화 및 학습결과에 대한 시각화를 잘 해보았고, 오버피팅을 극복하기 위해 epoch 수를 20으로 늘리는 등 파라미터 조정을 해보았습니다.
+* 그리고 다른 팀원들의 데이터를 활용하여 훈련데이터셋을 풍부하게 늘리려고 노력했습니다.
 
   
     
