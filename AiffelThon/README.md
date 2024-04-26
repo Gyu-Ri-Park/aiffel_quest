@@ -1,1 +1,3 @@
-test
+- 24/04/24: 'fuel_index_2022_2024.csv' 데이터 전처리하여 'ts_prepro_wo_NLP.csv' 생성  
+- 24/04/25: 'ts_prepro_wo_NLP.csv' 데이터 기반으로 ML baseline 모델 구축 (CatBoost, XGBoost)
+- 24/04/26: 
